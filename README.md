@@ -2,7 +2,7 @@
 - Szükséges Scriptek: Ox_lib
 
 - Fire_SafeZone:
-- RedZone/DM Szerverekre ajánlott,
-- Konfigolható,
-- Átlátható Config Oldal,
+- RedZone/DM Szerverekre ajánlott
+- Konfigolható
+- Átlátható Config Oldal
 - 0.02 ms Fogyasztás.
